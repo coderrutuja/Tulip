@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tulip">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tulip">
+        <activity
+            android:name=".activity_user_profile"
+            android:exported="true" />
+        <activity
+            android:name=".activity_user_manual"
+            android:exported="true" />
+        <activity
+            android:name=".activity_splash_screen"
+            android:exported="true" />
+        <activity
+            android:name=".activity_signup"
+            android:exported="true" />
+        <activity
+            android:name=".Profile"
+            android:exported="true" />
+        <activity
+            android:name=".activity_policy_screen"
+            android:exported="true" />
+        <activity
+            android:name=".activity_login"
+            android:exported="true" />
+        <activity
+            android:name=".activity_forgot_password"
+            android:exported="true" />
+        <activity
+            android:name=".activity_editprofile"
+            android:exported="true" />
+        <activity
+            android:name=".activity_contact_screen"
+            android:exported="true" />
+        <activity
+            android:name=".Change_password"
+            android:exported="true" />
+        <activity
+            android:name=".activity_about_screen"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PolicyScreen" />
+    </application>
+
+</manifest>

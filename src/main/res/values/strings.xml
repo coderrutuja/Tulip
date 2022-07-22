@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tulip</string>
+    <string name="st">A StartUp By</string>
+    <string name="dt">Dream Team 1%</string>
+    <string name="irr">Smart Irrigation System</string>
+    <string name="cli">Climate Control System</string>
+   <!-- <stirng name="light">Light System</stirng>
+    <stirng name="hydro">Hydroponics</stirng>-->
+</resources>

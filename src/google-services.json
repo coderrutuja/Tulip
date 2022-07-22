@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58892408852",
+    "firebase_url": "https://tulip-3040d-default-rtdb.firebaseio.com",
+    "project_id": "tulip-3040d",
+    "storage_bucket": "tulip-3040d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58892408852:android:edf00ca20e2a9766d52f01",
+        "android_client_info": {
+          "package_name": "com.example.tulip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58892408852-qudove3ab8b77in0ibkpqk9ekojpbs6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgVwawkcQQXiUA6kx8SKMujPzjZDQoqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58892408852-qudove3ab8b77in0ibkpqk9ekojpbs6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
