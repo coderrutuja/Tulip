@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834178346874",
+    "firebase_url": "https://tulip-b528d-default-rtdb.firebaseio.com",
+    "project_id": "tulip-b528d",
+    "storage_bucket": "tulip-b528d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834178346874:android:31e75c09cb9342e41cb0c3",
+        "android_client_info": {
+          "package_name": "com.example.tulip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834178346874-g26bfm0pocpm9bl42goh2c1j8fbmbcp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZaOqGrRI1Xe9Qy6U765hw-1Tn9b7BAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834178346874-g26bfm0pocpm9bl42goh2c1j8fbmbcp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
