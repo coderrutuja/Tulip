@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">58892408852-qudove3ab8b77in0ibkpqk9ekojpbs6c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tulip-3040d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">58892408852</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpgVwawkcQQXiUA6kx8SKMujPzjZDQoqQ</string>
+    <string name="google_app_id" translatable="false">1:58892408852:android:edf00ca20e2a9766d52f01</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpgVwawkcQQXiUA6kx8SKMujPzjZDQoqQ</string>
+    <string name="google_storage_bucket" translatable="false">tulip-3040d.appspot.com</string>
+    <string name="project_id" translatable="false">tulip-3040d</string>
+</resources>
